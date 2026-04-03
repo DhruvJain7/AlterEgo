@@ -10,4 +10,4 @@ pinned: false
 
 # My AlterEgo App
 This is a conversational AI acting as my digital twin.
-# AlterEgo
+
